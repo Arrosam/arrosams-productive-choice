@@ -22,7 +22,6 @@ This repository is a curated directory, not an installable plugin bundle or an o
 - [dsh-rewind-plugin](<https://github.com/SiriLee/dsh-rewind#readme>)
 - [dsh-notification](<https://github.com/nishit130/dsh-notification#readme>)
 - [dshmarket](<https://github.com/dsh-market/dsh-market#readme>)
-- [@goodandready/dsh-cron](<https://github.com/GooDAnDReaDY/dsh-cron#readme>)
 - [@linxin666/dsh-client-ui-git-graph](<https://github.com/zhu1090093659/dsh-web#readme>)
 - [@roarpeng/graphflow](<https://github.com/Roarpeng/GraphFlow#readme>)
 - [@openviking/dsh-memory-plugin](<https://github.com/volcengine/OpenViking/blob/main/examples/dsh-memory-plugin/README.md>)
