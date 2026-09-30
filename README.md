@@ -35,7 +35,13 @@ Verification covered installed package metadata and profile configuration only. 
 
 ## Selected Skills
 
-No individual Skills have been selected yet. `@weibaohui/skills-management` is a plugin for managing Skills, not a Skill itself.
+Arrosam explicitly selected the Skill below. Its individual selection reason has not been recorded. `@weibaohui/skills-management` is a plugin for managing Skills, not a Skill itself.
+
+| Skill / upstream instructions | Use case | Before use |
+| --- | --- | --- |
+| [dsh-code-review](<https://github.com/deepseek-ai/deepseek-harness/blob/master/.agents/skills/dsh-code-review/SKILL.md>) | Review DeepSeek Harness pull requests against repository standards, prioritizing correctness, lifecycle, security, test evidence, and documentation consistency. | Requires a DSH source checkout, repository documentation, and related Skills; the guidance uses Git/GitHub and repository checks, not a universal review checklist. |
+
+Verification on 2026-09-30 covered the local Skill instructions and existence of the upstream source. No standalone Skill version was identified, and no pull-request review was performed for this entry. The upstream repository declares MIT licensing. Follow the upstream instructions and retain access to their referenced files; this directory links the Skill rather than copying it.
 
 ## Suggest a plugin or Skill
 

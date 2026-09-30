@@ -35,7 +35,13 @@
 
 ## 精选 Skills
 
-目前尚未选择收录单独的 Skills。`@weibaohui/skills-management` 是管理 Skills 的插件，本身不是 Skill。
+以下 Skill 由 Arrosam 明确选择收录，具体选择理由尚未记录。`@weibaohui/skills-management` 是管理 Skills 的插件，本身不是 Skill。
+
+| Skill / 上游指令 | 使用场景 | 使用前注意 |
+| --- | --- | --- |
+| [dsh-code-review](<https://github.com/deepseek-ai/deepseek-harness/blob/master/.agents/skills/dsh-code-review/SKILL.md>) | 按仓库规范审查 DeepSeek Harness 的 Pull Request，优先检查正确性、生命周期、安全、测试证据和文档一致性。 | 需要 DSH 源码仓库、仓库文档和相关 Skills；指引涉及 Git/GitHub 与仓库检查，不是适用于所有项目的审查清单。 |
+
+2026-09-30 的验证覆盖本地 Skill 指令和上游来源的存在性。未发现独立的 Skill 版本号，也未为此条目执行实际 Pull Request 审查。上游仓库声明使用 MIT 许可证。使用时遵循上游指令，并保留对其引用文件的访问；本目录仅链接该 Skill，不复制其内容。
 
 ## 推荐插件或 Skill
 
