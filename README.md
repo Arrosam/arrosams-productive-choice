@@ -25,6 +25,9 @@ This repository is a curated directory, not an installable plugin bundle or an o
 - [@linxin666/dsh-client-ui-git-graph](<https://github.com/zhu1090093659/dsh-web#readme>)
 - [@roarpeng/graphflow](<https://github.com/Roarpeng/GraphFlow#readme>)
 - [@openviking/dsh-memory-plugin](<https://github.com/volcengine/OpenViking/blob/main/examples/dsh-memory-plugin/README.md>)
+- [@michengai/dsh-btw](<https://github.com/MichengAI/dsh-btw#readme>)
+- [@michengai/dsh-code-review](<https://github.com/MichengAI/dsh-code-review#readme>)
+- [dsh-diff-approval](<https://github.com/9087/dsh-diff-approval#readme>)
 
 ## Selected Skills
 
