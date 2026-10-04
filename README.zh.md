@@ -28,6 +28,7 @@
 - [@michengai/dsh-btw](<https://github.com/MichengAI/dsh-btw#readme>)
 - [@michengai/dsh-code-review](<https://github.com/MichengAI/dsh-code-review#readme>)
 - [dsh-diff-approval](<https://github.com/9087/dsh-diff-approval#readme>)
+- [dsh-improve-prompt](<https://github.com/hoyyang/dsh-improve-prompt#readme>)
 
 ## 精选 Skills
 
