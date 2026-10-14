@@ -18,7 +18,7 @@
 ## 精选插件
 
 - [dsh-plugin-subscriptions](<https://github.com/V1ki/dsh-plugin-subscriptions#readme>)
-- [@weibaohui/skills-management](<https://github.com/weibaohui/skills-management#readme>)
+- [@linxin666/dsh-client-ui-skill-explorer](<https://github.com/zhu1090093659/dsh-web#readme>)
 - [dsh-rewind-plugin](<https://github.com/SiriLee/dsh-rewind#readme>)
 - [dsh-notification](<https://github.com/nishit130/dsh-notification#readme>)
 - [dshmarket](<https://github.com/dsh-market/dsh-market#readme>)
@@ -29,10 +29,11 @@
 - [@michengai/dsh-code-review](<https://github.com/MichengAI/dsh-code-review#readme>)
 - [dsh-diff-approval](<https://github.com/9087/dsh-diff-approval#readme>)
 - [dsh-improve-prompt](<https://github.com/hoyyang/dsh-improve-prompt#readme>)
+- [@wxg-prc-cpg/browser-skill-dsh-plugin](<https://github.com/Tencent/BrowserSkill/tree/main/packages/dsh-plugin-browserskill#readme>)
 
 ## 精选 Skills
 
-以下 Skill 由 Arrosam 明确选择收录，具体选择理由尚未记录。`@weibaohui/skills-management` 是管理 Skills 的插件，本身不是 Skill。
+以下 Skill 由 Arrosam 明确选择收录，具体选择理由尚未记录。`@linxin666/dsh-client-ui-skill-explorer` 是管理 Skills 的插件，本身不是 Skill。
 
 | Skill / 上游指令 | 使用场景 | 使用前注意 |
 | --- | --- | --- |

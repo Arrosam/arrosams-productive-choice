@@ -18,7 +18,7 @@ This repository is a curated directory, not an installable plugin bundle or an o
 ## Selected plugins
 
 - [dsh-plugin-subscriptions](<https://github.com/V1ki/dsh-plugin-subscriptions#readme>)
-- [@weibaohui/skills-management](<https://github.com/weibaohui/skills-management#readme>)
+- [@linxin666/dsh-client-ui-skill-explorer](<https://github.com/zhu1090093659/dsh-web#readme>)
 - [dsh-rewind-plugin](<https://github.com/SiriLee/dsh-rewind#readme>)
 - [dsh-notification](<https://github.com/nishit130/dsh-notification#readme>)
 - [dshmarket](<https://github.com/dsh-market/dsh-market#readme>)
@@ -29,10 +29,11 @@ This repository is a curated directory, not an installable plugin bundle or an o
 - [@michengai/dsh-code-review](<https://github.com/MichengAI/dsh-code-review#readme>)
 - [dsh-diff-approval](<https://github.com/9087/dsh-diff-approval#readme>)
 - [dsh-improve-prompt](<https://github.com/hoyyang/dsh-improve-prompt#readme>)
+- [@wxg-prc-cpg/browser-skill-dsh-plugin](<https://github.com/Tencent/BrowserSkill/tree/main/packages/dsh-plugin-browserskill#readme>)
 
 ## Selected Skills
 
-Arrosam explicitly selected the Skill below. Its individual selection reason has not been recorded. `@weibaohui/skills-management` is a plugin for managing Skills, not a Skill itself.
+Arrosam explicitly selected the Skill below. Its individual selection reason has not been recorded. `@linxin666/dsh-client-ui-skill-explorer` is a plugin for managing Skills, not a Skill itself.
 
 | Skill / upstream instructions | Use case | Before use |
 | --- | --- | --- |
