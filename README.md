@@ -30,6 +30,7 @@ This repository is a curated directory, not an installable plugin bundle or an o
 - [dsh-diff-approval](<https://github.com/9087/dsh-diff-approval#readme>)
 - [dsh-improve-prompt](<https://github.com/hoyyang/dsh-improve-prompt#readme>)
 - [@wxg-prc-cpg/browser-skill-dsh-plugin](<https://github.com/Tencent/BrowserSkill/tree/main/packages/dsh-plugin-browserskill#readme>)
+- [billion-context](<https://github.com/ranxianglei/billion-context#readme>)
 
 ## Selected Skills
 
