@@ -28,9 +28,9 @@
 - [@michengai/dsh-btw](<https://github.com/MichengAI/dsh-btw#readme>)
 - [@michengai/dsh-code-review](<https://github.com/MichengAI/dsh-code-review#readme>)
 - [dsh-diff-approval](<https://github.com/9087/dsh-diff-approval#readme>)
-- [dsh-improve-prompt](<https://github.com/hoyyang/dsh-improve-prompt#readme>)
+- [dsh-smart-prompt](<https://github.com/Arrosam/dsh-smart-prompt#readme>)
 - [@wxg-prc-cpg/browser-skill-dsh-plugin](<https://github.com/Tencent/BrowserSkill/tree/main/packages/dsh-plugin-browserskill#readme>)
-- [auto-compact](<https://github.com/JohnathonYe/auto-compact#readme>)
+- [dsh-idle-compact](<https://github.com/Arrosam/dsh-idle-compact#readme>)
 
 ## 精选 Skills
 
